@@ -1,4 +1,4 @@
-#Lasso Simulation
+# Lasso Simulation
 
 This repository contains simulations regarding the ability of the Lasso to detect the true parameters of interest with varying correlation, effect size, and number of predictors within a given data set.
 
